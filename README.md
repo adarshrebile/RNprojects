@@ -1,2 +1,2 @@
 # RNprojects
- react native projects mmae for practice.
+ react native projects made for practice.
